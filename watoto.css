@@ -1,0 +1,131 @@
+html{
+    background-image: url(gradient-2.jpg)
+}
+
+body{
+}
+body:hover{
+    ;
+     
+}
+#all{
+    width: 1000px;
+    height:1150px;
+    background-color:darkgray;
+    margin: auto;
+}
+
+#l1{
+color: ghostwhite;
+    padding-top: 10px;
+    object-position: top;
+     text-align: center;
+     font-family: cursive; 
+    justify-content: space-between;
+    width: 1000px;
+    height: 100px;
+    background-color: floralwhite;
+    border-bottom-style:solid;
+    border-bottom-width: thick;
+    border-bottom-color: dimgrey;
+    background-image: url(gradient-2.jpg)
+}
+#l2{
+height: 900px;
+width:250px;
+ border-right-style: solid;
+ border-right-width: thiCK;
+ border-right-color: dimgrey;
+ float: left;
+background-color:floralwhite;
+    font-family: cursive;
+    
+    
+}
+#l2abt{
+height: 900px;
+width:80px;
+ border-right-style: solid;
+ border-right-width: thiCK;
+ border-right-color: dimgrey;
+    float: left;
+    background-color:whitesmoke;
+}
+
+#l3{
+   height: 100px;
+    width: 1000px;
+   float: left;
+    text-align: center;
+}
+#l4{
+    padding: 0px;
+    height: 900px;
+     width:100%;
+    background-image: url()
+}
+
+.l41{
+   height: 27%;
+   width:30%;
+   float: left;
+}
+.l42{
+   height: 27%;
+   width:31%;
+    float: left;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.link{
+    width: 99%;
+    height: 50px;
+    background-color: floralwhite;
+    text-align: center;
+    padding: 1px;
+    margin-top: 5px;
+    display: block;
+}
+img{
+    height: auto;
+    width: 99%;
+}
+.image{
+margin:2px;
+  border:0;
+  height:auto;
+  width:auto;
+  float:left;
+  text-align:center;
+}
+.thispage{
+  margin:2px;
+  border:1px solid dimgray;
+  height:auto;
+  width:auto;
+  float:left;
+  text-align:center;
+}
+.image:hover{
+border:2px solid dimgrey;
+}
+
+.link:hover{
+    background-color: dimgrey;
+}
+#hm1{
+ background-color: dimgrey; 
+    width: 99%;
+    height: 50px;
+    text-align: center;
+    padding: 1px;
+    margin-top: 5px;
+    display: block;
+}
+p{
+    text-align: justify;
+}
